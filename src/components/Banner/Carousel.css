@@ -1,0 +1,12 @@
+.carousel{
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between !important;
+}
+
+
+
+.contentWrapper{
+    margin-top: 0.87% !important;
+}
